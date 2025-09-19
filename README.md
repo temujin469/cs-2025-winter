@@ -1,4 +1,4 @@
-# CS101 — 2025 Fall Coursework
+# LKH0007 — 2025 Winter Coursework
 
 For tutors and visitors: this repository contains my course work. Use the map and notes below to find and review items quickly.
 
