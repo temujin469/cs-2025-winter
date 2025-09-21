@@ -1,0 +1,28 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+build/
+bin/
+obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
